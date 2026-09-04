@@ -108,8 +108,7 @@
 * 🏋️ **Fitness Challenge App** — Flutter fitness challenge and progress tracking app.
 * 🚗 **Car Maintenance Tracker** — Mobile app for managing vehicle maintenance.
 * 🎓 **Student Registration Platform** — Full-stack student registration system.
-* 🌀 **Maze Project** — Python project focused on algorithms and problem solving.
- projects.
+* 🌀 **Maze Project** — 
 
 ---
 
