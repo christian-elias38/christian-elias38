@@ -103,12 +103,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-
-
----
-
 ## 🎯 Currently
 
 * 🌱 Improving my **full-stack development** skills
