@@ -109,8 +109,7 @@
 * 🚗 **Car Maintenance Tracker** — Mobile app for managing vehicle maintenance.
 * 🎓 **Student Registration Platform** — Full-stack student registration system.
 * 🌀 **Maze Project** — Python project focused on algorithms and problem solving.
-* 💻 **My Portfolio** — Personal portfolio showcasing my skills and projects.
-* 📱 **Birr Gebeya** — Flutter-based digital platform project.
+ projects.
 
 ---
 
