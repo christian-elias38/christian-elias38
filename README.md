@@ -105,9 +105,7 @@
 
 ## 🚀 Featured Projects
 
-* 🏋️ **Fitness Challenge App** — Flutter fitness challenge and progress tracking app.
-* 🚗 **Car Maintenance Tracker** — Mobile app for managing vehicle maintenance.
-=
+
 
 ---
 
