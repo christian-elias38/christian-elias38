@@ -19,87 +19,28 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+**Languages**
+TypeScript • JavaScript • Dart • Python • Java • C++
 
-<table>
-<tr>
-<td align="center">🔷<br><b>TypeScript</b></td>
-<td align="center">🟨<br><b>JavaScript</b></td>
-<td align="center">🎯<br><b>Dart</b></td>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">☕<br><b>Java</b></td>
-<td align="center">⚡<br><b>C++</b></td>
-</tr>
-</table>
+**Frontend**
+React • Next.js • Tailwind CSS • HTML • CSS
 
-## 🎨 Frontend
+**Backend**
+Node.js • Express • Go • REST APIs
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br><b>React</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br><b>Next.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><b>Tailwind</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br><b>HTML</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br><b>CSS</b></td>
-</tr>
-</table>
+**Mobile**
+Flutter • Dart • Android Studio
 
-## ⚙️ Backend
+**Database**
+PostgreSQL • MySQL • MongoDB • Prisma
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br><b>Node.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br><b>Express</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=go" width="45"/><br><b>Go</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br><b>REST API</b></td>
-</tr>
-</table>
+**Tools**
+Git • GitHub • VS Code • Figma • pnpm • Postman
 
-## 📱 Mobile
-
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="45"/><br><b>Flutter</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br><b>Dart</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br><b>Android Studio</b></td>
-</tr>
-</table>
-
-## 🗄️ Database
-
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br><b>PostgreSQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><b>MySQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br><b>MongoDB</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="45"/><br><b>Prisma</b></td>
-</tr>
-</table>
-
-## 🔧 Tools
-
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br><b>GitHub</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><b>VS Code</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br><b>Figma</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="45"/><br><b>pnpm</b></td>
-</tr>
-</table>
-
-## ☁️ DevOps
-
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br><b>Docker</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br><b>GitHub Actions</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="45"/><br><b>Vercel</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br><b>AWS</b></td>
-</tr>
-</table>
+**DevOps & Cloud**
+Docker • GitHub Actions • Vercel • AWS
 
 ---
 
@@ -108,9 +49,13 @@
 * 🌱 Improving my **full-stack development** skills
 * 📱 Building **Flutter applications**
 * 🎨 Exploring modern **UI/UX**
-* 🚀 Building and learning through real-world projects
+* 🚀 Learning through real-world projects
 
 ---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on interesting software projects, learning from other developers, and building useful products.
 
 <p align="center">
   <b>🚀 Build • Learn • Improve</b>
