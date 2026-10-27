@@ -113,15 +113,14 @@
 * 🚀 Turning ideas into real-world projects
 
 ---
-## 🚀 What I Build
 
-I enjoy building **modern web applications, mobile apps, dashboards, and digital products** with a focus on usability, clean architecture, and thoughtful UI.
 
 ---
----
-
 <p align="center">
   <b>🚀 Build • Learn • Improve</b>
 </p>
+
+---
+
 
 
