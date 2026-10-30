@@ -17,7 +17,7 @@
 * 🚀 Building applications with **React, Next.js & Flutter**
 * 🎨 Passionate about **UI/UX and clean, modern interfaces**
 * 🌱 Continuously learning and improving my software engineering skills
-* 🤝 Open to collaborating on interesting projects
+
 
 ---
 
