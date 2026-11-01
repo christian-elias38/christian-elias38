@@ -120,6 +120,10 @@ I enjoy building **modern web applications, mobile apps, dashboards, and digital
 
 ---
 
+<p align="center">
+  <b>🚀 Build • Learn • Improve</b>
+</p>
 
+---
 
 
