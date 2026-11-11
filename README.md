@@ -1,129 +1,67 @@
-<h1 align="center">👋 Hey, I'm Christian Elias</h1>
+# Hi, I'm Christian Elias 👋
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8C705F&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Flutter+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-</h3>
+### Software Engineering Student | Full-Stack Developer | IT Enthusiast
 
-<p align="center">
-  🚀 <b>Always Building & Learning</b>
-</p>
+I'm a 4th-year Software Engineering student at Addis Ababa University (AAU), currently pursuing the Information Technology (IT) stream.
 
----
+I'm passionate about building practical digital solutions, developing modern web and mobile applications, and exploring how technology works beyond the application layer.
 
-## 👨‍💻 About Me
+I enjoy combining software development with IT concepts, particularly cloud computing, networking, cybersecurity, and database systems.
 
-* 🎓 Software Engineering student at **Addis Ababa University**
-* 💻 Focused on **Full-Stack Web & Mobile Development**
-* 🚀 Building applications with **React, Next.js & Flutter**
-* 🎨 Passionate about **UI/UX and clean, modern interfaces**
-* 🌱 Continuously learning and improving my software engineering skills
-* * 🤝 Open to collaborating on interesting projects
+### 💻 Technical Interests
 
+- Full-Stack Web Development
+- Mobile Application Development
+- Cloud Computing & Infrastructure
+- Networking & System Administration
+- Cybersecurity
+- Database Design & Management
+- Software Engineering & System Architecture
 
----
+### 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+**Frontend:**  
+React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
-## 💻 Languages
+**Backend:**  
+Node.js, Express.js, REST APIs
 
-<table>
-<tr>
-<td align="center">🔷<br><b>TypeScript</b></td>
-<td align="center">🟨<br><b>JavaScript</b></td>
-<td align="center">🎯<br><b>Dart</b></td>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">☕<br><b>Java</b></td>
-<td align="center">⚡<br><b>C++</b></td>
-</tr>
-</table>
+**Mobile Development:**  
+Flutter, Dart
 
-## 🎨 Frontend
+**Databases:**  
+PostgreSQL, Supabase, SQLite
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br><b>React</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br><b>Next.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><b>Tailwind CSS</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br><b>HTML</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br><b>CSS</b></td>
-</tr>
-</table>
+**Tools & Platforms:**  
+Git, GitHub, Figma, VS Code, Postman, Vercel
 
-## ⚙️ Backend
+### 💼 Experience
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br><b>Node.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br><b>Express</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=go" width="45"/><br><b>Go</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br><b>REST API</b></td>
-</tr>
-</table>
+**Software Development Intern – TillaCover**
 
-## 📱 Mobile
+Worked on a Corporate Employee Benefits Dashboard, contributing to frontend development, dashboard functionality, API integration, debugging, and improving user workflows.
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="45"/><br><b>Flutter</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br><b>Dart</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br><b>Android Studio</b></td>
-</tr>
-</table>
+### 🚀 Featured Projects
 
-## 🗄️ Database
+- **Birr Gebeya** – A Flutter-based financial marketplace application for Treasury Bills.
+- **Velora** – A modern perfume shopping application built with Next.js and Supabase.
+- **Car Maintenance Tracker** – A mobile application built with Flutter and Supabase.
+- **Personal Portfolio** – My personal space to showcase projects, technical skills, and development journey.
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br><b>PostgreSQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><b>MySQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br><b>MongoDB</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="45"/><br><b>Prisma</b></td>
-</tr>
-</table>
+### 🌱 Currently Learning
 
-## 🔧 Tools
+- Cloud Computing and Infrastructure
+- Networking and Cybersecurity
+- DevOps and Deployment
+- Advanced Full-Stack Development
+- Scalable Backend Architecture
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br><b>GitHub</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><b>VS Code</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br><b>Figma</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="45"/><br><b>pnpm</b></td>
-</tr>
-</table>
+### 🤝 Let's Connect
 
-## ☁️ DevOps & Cloud
-
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br><b>Docker</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br><b>GitHub Actions</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="45"/><br><b>Vercel</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br><b>AWS</b></td>
-</tr>
-</table>
+- Portfolio: https://christian-elias.vercel.app/
+- GitHub: https://github.com/christian-elias38
 
 ---
 
-## 🎯 Currently
-
-* 🌱 Improving my **full-stack development** skills
-* 📱 Building **Flutter applications**
-* 🎨 Exploring modern **UI/UX**
-* 🚀 Turning ideas into real-world projects
-
----
-## 🚀 What I Build
-
-I enjoy building **modern web applications, mobile apps, dashboards, and digital products** with a focus on usability, clean architecture, and thoughtful UI.
-
----
-
-
-<p align="center">
-  <b>🚀 Build • Learn • Improve</b>
-</p>
-
----
+*Building, learning, and growing one project at a time.*
 
