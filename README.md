@@ -96,3 +96,25 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christian-elias38&show_icons=true&theme=transparent&hide_border=true&title_color=8C705F&icon_color=8C705F" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-elias38&layout=compact&theme=transparent&hide_border=true&title_color=8C705F" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://christian-elias.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8C705F?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/christian-elias38">
+    <img src="https://img.shields.io/badge/GitHub-1E1A1D?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center"><b>🚀 Build • Learn • Explore • Improve</b></p>
+</p>
