@@ -99,8 +99,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christian-elias38&show_icons=true&theme=transparent&hide_border=true&title_color=8C705F&icon_color=8C705F" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-elias38&layout=compact&theme=transparent&hide_border=true&title_color=8C705F" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=christian-elias38&show_icons=true&theme=transparent&hide_border=true&title_color=8C705F&icon_color=8C705F" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-elias38&layout=compact&theme=transparent&hide_border=true&title_color=8C705F" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=christian-elias38&theme=transparent&hide_border=true&ring=8C705F&fire=8C705F&currStreakLabel=8C705F" />
 </p>
 
 ---
